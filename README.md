@@ -24,7 +24,7 @@ As a fintech engineer at one of the five largest banks in the world, I was asked
 ![Image](validation.png)
 
 ## Contributors
-> Email: henrydate1@gmail.com |
+> Email: Henrydate1@gmail.com |
 > [GitHub](https://github.com/henrydate) |
 > [LinkedIn](https://www.linkedin.com/in/henry-date-9356351a4/)
 
